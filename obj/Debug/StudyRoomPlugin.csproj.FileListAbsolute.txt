@@ -1,0 +1,13 @@
+C:\Users\ERahmatullaev\Desktop\C#\Revit\StudyRoomPlugin\obj\Debug\StudyRoomPlugin.csproj.AssemblyReference.cache
+C:\Users\ERahmatullaev\Desktop\C#\Revit\StudyRoomPlugin\obj\Debug\UserWindRoom.g.cs
+C:\Users\ERahmatullaev\Desktop\C#\Revit\StudyRoomPlugin\obj\Debug\StudyRoomPlugin_MarkupCompile.cache
+C:\Users\ERahmatullaev\Desktop\C#\Revit\StudyRoomPlugin\obj\Debug\StudyRoomPlugin_MarkupCompile.lref
+C:\Users\ERahmatullaev\Desktop\C#\Revit\StudyRoomPlugin\bin\Debug\StudyRoomPlugin.dll
+C:\Users\ERahmatullaev\Desktop\C#\Revit\StudyRoomPlugin\bin\Debug\StudyRoomPlugin.pdb
+C:\Users\ERahmatullaev\Desktop\C#\Revit\StudyRoomPlugin\obj\Debug\UserWindRoom.baml
+C:\Users\ERahmatullaev\Desktop\C#\Revit\StudyRoomPlugin\obj\Debug\StudyRoomPlugin.g.resources
+C:\Users\ERahmatullaev\Desktop\C#\Revit\StudyRoomPlugin\obj\Debug\StudyRoomPlugin.csproj.CoreCompileInputs.cache
+C:\Users\ERahmatullaev\Desktop\C#\Revit\StudyRoomPlugin\obj\Debug\StudyRoomPlugin.dll
+C:\Users\ERahmatullaev\Desktop\C#\Revit\StudyRoomPlugin\obj\Debug\StudyRoomPlugin.pdb
+C:\Users\ERahmatullaev\Desktop\C#\Revit\StudyRoomPlugin\obj\Debug\LevelViewWind.g.cs
+C:\Users\ERahmatullaev\Desktop\C#\Revit\StudyRoomPlugin\obj\Debug\LevelViewWind.baml
